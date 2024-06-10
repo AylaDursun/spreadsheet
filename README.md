@@ -1,5 +1,5 @@
 
-# CS4530 Course Project
+# CS4530 Fundamentals of Software Engineering Course Project
 
 Please push the project deliverables to appropriate directories:
  - `implementation`: Any and all code you write should go here (both server and client).
